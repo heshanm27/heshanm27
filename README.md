@@ -22,3 +22,8 @@ I'm Heshan, a passionate Fullstack Associate Software Engineer based in Sri Lank
 - I believe in the power of coding to create meaningful change and bring ideas to life.
 
 Feel free to explore my repositories, and let's collaborate on something awesome! 🚀
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,dotnet,docker,express,nodejs,postgres,py,ts)](https://skillicons.dev)
