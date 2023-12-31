@@ -1,21 +1,24 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**heshanm27/heshanm27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+I'm Heshan, a passionate Fullstack Associate Software Engineer based in Sri Lanka. With over 1+ year of experience, I am dedicated to crafting seamless solutions for both frontend and backend applications, as well as mobile applications.
 
+### 🔭 What I'm up to:
+- Working on diverse projects that fuel my curiosity and creativity.
+- Exploring the realms of Fullstack development to craft seamless and efficient solutions.
 
-- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning in ... Sri Lanka Institute of Information Technology as a software engineering undergraduate
-- 📫 How to reach me: ... mheshan27@gmail.com
+### 🌱 Learning Journey:
+- Always on the learning curve, soaking in the latest trends and technologies.
+- Actively engaged in my software engineering program, gaining insights and practical experience.
 
-<!-- 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
+### 📫 Let's Connect:
+- **Email:** [Email ME](mailto:mheshan27@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/heshanmadhuranga/)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Talk Tech:
+- Experienced in: JavaScript, React, Node.js, HTML, CSS,Dart,Kotlin and more.
+- Eager to discuss software architecture, problem-solving, and anything tech-related.
 
+### ⚡ Fun Fact:
+- I believe in the power of coding to create meaningful change and bring ideas to life.
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=heshanm27&theme=dracula)](https://github.com/anuraghazra/github-readme-statsk)
+Feel free to explore my repositories, and let's collaborate on something awesome! 🚀
